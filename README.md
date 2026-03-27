@@ -71,7 +71,7 @@ npm start
 
 ```
 ========================================
-  VR 链接: https://realsee.com/pano-xxxxx/index.html
+  VR 链接: https://realsee.ai/link_code
 ========================================
 ```
 
