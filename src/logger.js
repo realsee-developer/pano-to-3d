@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 export function timestamp() {
   return new Date().toTimeString().slice(0, 8)
 }

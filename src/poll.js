@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import { writeFile } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
 import { BASE_URL, POLL_INTERVAL_MS, POLL_MAX_ATTEMPTS, RESULT_PATH } from './config.js'

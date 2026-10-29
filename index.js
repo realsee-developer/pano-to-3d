@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 /**
  * Full-pipeline orchestrator.
  * To run individual steps, use: npm run <step>  (see package.json scripts)

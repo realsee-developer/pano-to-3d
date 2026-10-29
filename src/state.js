@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import { readFile, writeFile, mkdir } from 'node:fs/promises'
 import { OUTPUT_DIR, STATE_PATH } from './config.js'
 

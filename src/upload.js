@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import { openAsBlob } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import uploaderPkg from '@realsee/universal-uploader'

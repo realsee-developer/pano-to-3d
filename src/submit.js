@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import { fileURLToPath } from 'node:url'
 import { BASE_URL } from './config.js'
 import { log, apiFetch } from './logger.js'
